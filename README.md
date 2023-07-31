@@ -9,7 +9,6 @@
 
 <body>
   <h1>Weather Explorer App</h1>
-  <img src="./src/assets/sunset.jpg" alt="Weather Explorer">
 
   <h2>Features</h2>
   <ul>
